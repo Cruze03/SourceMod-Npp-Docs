@@ -39,9 +39,10 @@ Here the new API docs with all (I hope) function, define, enum, methodmap and fi
 A preset has all the setting ready to developing your plugin. To load preset go to **Notepd++ -> Lanuguage -> Define your language -> Import** and select **userDefineLang.xml** from **SourceMod docs** or copy **userDefineLang.xml** to **<USER_NAME>\AppData\Roaming\Notepad++\\**  
 
 If you want to use with twilight theme:
-*Disable global foreground color*
-*Enable global background color*
-*Enable global bold font style*
+ - **Disable global foreground color**
+ - **Enable global background color**
+ - **Enable global bold font style**
+
 P.S:- Background black not black enough? Select bacckground color selection and select black again.
 
 ### Define you own preset
