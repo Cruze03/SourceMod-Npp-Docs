@@ -37,6 +37,13 @@ Here the new API docs with all (I hope) function, define, enum, methodmap and fi
 ## Highlights
 ### Use preset
 A preset has all the setting ready to developing your plugin. To load preset go to **Notepd++ -> Lanuguage -> Define your language -> Import** and select **userDefineLang.xml** from **SourceMod docs** or copy **userDefineLang.xml** to **<USER_NAME>\AppData\Roaming\Notepad++\\**  
+
+If you want to use with twilight theme:
+*Disable global foreground color*
+*Enable global background color*
+*Enable global bold font style*
+P.S:- Background black not black enough? Select bacckground color selection and select black again.
+
 ### Define you own preset
 If you want to configurate user defined languge or update keywords, check **plugins\NPP\\** folder for **NPP_STYLE** files. These files contain defining the keyword lists for the SourcePawn language. Open one of those files, select keywords and copy. Go to **Notepd++ -> Lanuguage -> Define your language...** Select you own language or create new and past keywords to the Keywords Lists group. Do it for other groups too. More information here: [UDL 2.0](https://udl20.weebly.com/index.html). 
 ![Docs screenshot](https://github.com/raziEiL/SourceMod-Npp-Docs/blob/master/img/define%20languge.jpg "Inline docs")
