@@ -1,0 +1,4 @@
+npp_save
+cd $(CURRENT_DIRECTORY)
+cmd /c "if not exist "compiled/" mkdir "compiled/""
+spcomp $(FILE_NAME) -o compiled/$(NAME_PART).smx
